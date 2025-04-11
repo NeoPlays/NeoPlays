@@ -12,7 +12,7 @@ I'm a software engineer at **RockLogic GmbH**, where I work on Ethereum infrastr
 
 ## 🛠️ Background
 
-Before diving deep into Ethereum and distributed systems, I studied **Elektronik und Technische Informatik** at **HTL Hollabrunn**, where I built a strong foundation in **embedded systems development** and low-level programming.  
+Before diving deep into Ethereum and distributed systems, I studied **Electronics and Technical Computer Sciences / Informatics** at **HTL Hollabrunn**, where I built a strong foundation in **embedded systems development** and low-level programming.  
 From blinking LEDs to Ethereum nodes — what a journey it's been, and there's so much more ahead.
 
 ## 🎲 Some Random Facts
