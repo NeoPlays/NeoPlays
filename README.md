@@ -26,8 +26,8 @@ From blinking LEDs to Ethereum nodes — what a journey it's been, and there's s
 <p align="center">
   <table>
     <tr>
-      <td><img src="http://platajs.at/api/github_top_langs" /></td>
-      <td><img src="http://platajs.at/api/github_stats" /></td>
+      <td><img src="http://github.toplang.platajs.at" /></td>
+      <td><img src="http://github.stats.platajs.at" /></td>
     </tr>
   </table>
 </p>
